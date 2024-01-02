@@ -38,8 +38,15 @@ Navigate to each game's directory to find the specific AI implementation. Each d
 - `train.py` - Script for training the AI agent.
 - `evaluate.py` - Script for evaluating the agent's performance.
 
-To train an agent, run:
+## Technologies Used
+- Python: The primary programming language.
+- Gymnasium: For creating and managing game environments.
+- PyTorch: For implementing and training neural network models.
+- Reinforcement Learning Algorithms: Deep Q-Learning, Deep Convolutional Q-Learning, and A3C.
 
-```bash
-python train.py
+## Goals and Learning Outcomes
+
+- Develop a deep understanding of various reinforcement learning algorithms.
+- Optimize AI agents for high performance in complex tasks.
+- Experiment with the different parameters and how agents act to them.
 
