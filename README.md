@@ -27,3 +27,19 @@ To get started, clone the repository and install the required packages:
 git clone https://github.com/[YourGitHubUsername]/AI-Playing-Games.git
 cd AI-Playing-Games
 pip install -r requirements.txt
+```
+
+## Usage
+
+Navigate to each game's directory to find the specific AI implementation. Each directory includes:
+
+- `ai_agent.py` - The AI agent's code.
+- `environment.py` - Game environment setup.
+- `train.py` - Script for training the AI agent.
+- `evaluate.py` - Script for evaluating the agent's performance.
+
+To train an agent, run:
+
+```bash
+python train.py
+
